@@ -7,11 +7,17 @@ Basic arduino code for Student Guru Dept. from UPatras
 παρακάτω θα αναρτήσω τα ονόματα του υλικού που χρησιμοποιήσαμε καθώς και ένα ενδεικτικό κατάστημα.
 
 *DHT11: humidity/temperature digital sensor(Grobotronics)
+
 *3x220 Ω resistors(Grobotronics)
+
 *724-3166: piezo sensor (RS components)
+
 *Arduino UNO: μπορέιται αν αγοράσετε τα official ή να αγοράσετε unofficial για 4-5 ευρώ(Arduino/skroutz.gr/ebay)
+
 *PIR sensor: ανάλογα με τα λεφτά που θέλετε να διαθέσετε θα έχετε και την ανάλογη ακρίβεια, φυσικά και με βάση τις ανάγκες(Grobotronics)
+
 *5v 2pin buzzer: και πάλι ανάλογα με της ανάγκες για να μην σας κάνουν έξωση :P (Surprise: grobotronics)
+
 *3x Bright leds, 3 Normal leds: προσοχή στις αντιστάσεις που θέλουν γιατί καίγονται εύκολα(και όμως όχι grobotronics, ebay)
 
 Στο παρακάτω link θα βρείτε τις διαφάνιες: 
