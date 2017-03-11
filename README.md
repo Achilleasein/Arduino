@@ -26,11 +26,8 @@ Basic arduino code for Student Guru Dept. from UPatras
 Στο παρακάτω link θα βρείτε τις διαφάνιες: 
 
 Επίσης σας παραθέτω μερικά βιβλία σε περίπτωση που θέλετε να έχετε ένα reference:
-
 *Arduino in Action:by Μισέλ Έβανς & Τζόρνταν Χοχένμπόμ
-
 *Introduction to Arduino A piece of cake!: by Alan G. Smith
-
 *Beginning C for Arduino Learn C Programming for the Arduino: by Purdum, Jack
 
 και φυσικά χρήσιμες ιστοσελίδες:
