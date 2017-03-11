@@ -1,6 +1,8 @@
 # Arduino
 Basic arduino code for Student Guru Dept. from UPatras
 
+Χρησιμοποιούμε την τελευταία έκδωση του arduinoΙΔΕ, επίσης χρησιμωποιώ και σαςν external editor τον sublime test editor 3, βολεέυει αρκετά με τα shortcuts τα οποία έχει.
+
   Ο κώδικας 2015-2016 είναι από το περσινό event και χρησιμοποιεί την βιβλιοθήκη DHT11, 
 η οποία δεν είναι τόσο καλή μιας και μας περιορίζει αρκετά, στο φετινό project έχουμε χρησιμοποιήσει την βιβλιοθήκη DHT.
 
