@@ -24,13 +24,17 @@ Basic arduino code for Student Guru Dept. from UPatras
 -3x Bright leds, 3 Normal leds: προσοχή στις αντιστάσεις που θέλουν γιατί καίγονται εύκολα(και όμως όχι grobotronics, ebay)
 
 Στο παρακάτω link θα βρείτε τις διαφάνιες: 
+
 Επίσης σας παραθέτω μερικά βιβλία σε περίπτωση που θέλετε να έχετε ένα reference:
 
-
 και φυσικά χρήσιμες ιστοσελίδες:
+
 Arduino.cc(δείτε και το create της Arduino)
+
 Instructables
+
 Grobotronics(δεν είναι πανάκεια αλλά έχει αρκέτα καλές τιμές και απόθεμα, αν έχετε κάτι καλύτερο μοιραστείτε το!!)
+
 github(you dont say)
 
 Για ερωτήσεις στα παρακάτω mail: 
