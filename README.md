@@ -34,8 +34,11 @@ Grobotronics(δεν είναι πανάκεια αλλά έχει αρκέτα �
 github(you dont say)
 
 Για ερωτήσεις στα παρακάτω mail: 
-yfantis@ceid.upatras.gr(καλύτερα εδώ και σε περίπτωση που έχετε πρόβλημα στα παρακάτω)
-achilleasein@gmail.com
-achilleasein@hotmail.com
+
+-yfantis@ceid.upatras.gr(καλύτερα εδώ και σε περίπτωση που έχετε πρόβλημα στα παρακάτω)
+
+-achilleasein@gmail.com
+
+-achilleasein@hotmail.com
 
 - Αχιλλέας Υφαντής για Student Guru
