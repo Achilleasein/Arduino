@@ -1,4 +1,4 @@
-# Arduino
+# Arduino (under construction)
 Basic arduino code for Student Guru Dept. from UPatras
 
 Χρησιμοποιούμε την τελευταία έκδωση του arduinoΙΔΕ, επίσης χρησιμωποιώ και σαςν external editor τον sublime test editor 3, βολεύει αρκετά με τα shortcuts τα οποία έχει.
