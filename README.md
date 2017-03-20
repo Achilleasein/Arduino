@@ -26,7 +26,7 @@ Basic arduino code for Student Guru Dept. from UPatras
 
 Στο παρακάτω [link](https://1drv.ms/p/s!Aj4a_IXeQeuboQcY3o6YVYeGqVah) θα βρείτε τις διαφάνιες.
 
-
+# Άλλες πληροφορίες
 
 Επίσης σας παραθέτω μερικά βιβλία σε περίπτωση που θέλετε να έχετε ένα reference:
 
@@ -45,6 +45,8 @@ Instructables
 Grobotronics(δεν είναι πανάκεια αλλά έχει αρκέτα καλές τιμές και απόθεμα, αν έχετε κάτι καλύτερο μοιραστείτε το!!)
 
 github(you dont say)
+
+# Επικοινωνία
 
 Για ερωτήσεις στα παρακάτω mail: 
 
