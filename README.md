@@ -23,7 +23,9 @@ Basic arduino code for Student Guru Dept. from UPatras
 
 -3x Bright leds, 3 Normal leds: προσοχή στις αντιστάσεις που θέλουν γιατί καίγονται εύκολα(και όμως όχι grobotronics, ebay)
 
-Στο παρακάτω link θα βρείτε τις διαφάνιες: 
+Στο παρακάτω [link](https://1drv.ms/p/s!Aj4a_IXeQeuboQcY3o6YVYeGqVah) θα βρείτε τις διαφάνιες.
+
+
 
 Επίσης σας παραθέτω μερικά βιβλία σε περίπτωση που θέλετε να έχετε ένα reference:
 
@@ -48,9 +50,5 @@ github(you dont say)
 -yfantis@ceid.upatras.gr(καλύτερα εδώ και σε περίπτωση που έχετε πρόβλημα στα παρακάτω)
 
 -mmoustaka@ceid.upatras.gr
-
--achilleasein@gmail.com
-
--achilleasein@hotmail.com
 
 - Αχιλλέας Υφαντής & Μαρία Μουστάκα για Student Guru
